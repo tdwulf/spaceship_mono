@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/wulf/Desktop/Programming/CSharp/SpaceShip/Content/spaceFont.spritefont</SourceFile>
+  <SourceTime>2018-05-04T20:09:02-07:00</SourceTime>
+  <DestFile>/home/wulf/Desktop/Programming/CSharp/SpaceShip/Content/bin/DesktopGL/spaceFont.xnb</DestFile>
+  <DestTime>2018-05-04T20:10:38-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-05-02T21:36:04-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-05-02T21:36:04-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
